@@ -1,0 +1,17 @@
+/* --------------- */
+.logo-details img {
+    height: 50px;
+    margin-left: 16px;
+}
+
+/*POWER BI*/
+
+.iframe-power-bi {
+    margin-left: 40px;
+}
+iframe {
+    border-radius: 16px;
+    height: 100%;
+    width: 100%;
+    padding: 0px 20px;
+}
